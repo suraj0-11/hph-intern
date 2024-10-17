@@ -44,6 +44,7 @@
        }
    }
 For failure, create Jenkinsfilefail:
+```groovy
 pipeline {
     agent any
     stages {
