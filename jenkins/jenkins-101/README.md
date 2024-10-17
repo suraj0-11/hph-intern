@@ -70,10 +70,7 @@ pipeline {
         }
     }
 }
-
-You can replace the `![...]` with actual image links later when you upload them.
-
-
+```
 ## 🛠️ Step 2: Slack Notification Integration
 
 1. **Install Slack Notification Plugin**
@@ -94,3 +91,7 @@ You can replace the `![...]` with actual image links later when you upload them.
 
 4. **Save the Configuration**
    - After entering the credentials and token, click **Save** to finalize the integration.
+
+
+
+
