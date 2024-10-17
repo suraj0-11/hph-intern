@@ -1,3 +1,5 @@
+Go to [https://github.com/suraj0-11/jenkin-example.git](https://github.com/suraj0-11/jenkin-example.git) for the script code.
+
 ## 📝 Step 1: Configuring Jenkins Pipeline
 
 1. **Navigate to Jenkins Dashboard**
