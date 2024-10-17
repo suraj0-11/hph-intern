@@ -72,3 +72,25 @@ pipeline {
 }
 
 You can replace the `![...]` with actual image links later when you upload them.
+
+
+## 🛠️ Step 2: Slack Notification Integration
+
+1. **Install Slack Notification Plugin**
+   - Navigate to **Manage Jenkins** > **Manage Plugins** and search for the Slack Notification plugin. Install it.
+
+   ![Slack Plugin](./images/slack-plugin.png) <!-- Placeholder for plugin installation image -->
+
+2. **Configure Slack Settings**
+   - Go to **Manage Jenkins** > **Configure System**. Scroll to the **Slack** section and enter your workspace credentials (Webhook URL, Channel, etc.).
+
+   ![Slack Configuration](./images/slack-configuration.png) <!-- Placeholder for Slack configuration image -->
+
+3. **Integrate Jenkins with Slack App**
+   - In your Slack app, add the **Jenkins CI** integration and generate a token.
+   - Copy the token and add it as a secret in Jenkins under **Credentials**.
+
+   ![Slack Integration](./images/slack-integration.png) <!-- Placeholder for Slack integration image -->
+
+4. **Save the Configuration**
+   - After entering the credentials and token, click **Save** to finalize the integration.
