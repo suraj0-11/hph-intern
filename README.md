@@ -33,7 +33,7 @@ Welcome to the **Project Repository**, featuring multiple projects that explore 
 
 ---
 
-### 4. **[junkins/jenkins-101](./junkins/jenkins-101)**
+### 4. **[jenkins/jenkins-101](./jenkins/jenkins-101)**
    - **Description**: An introduction to **Jenkins**, covering setup, configuration, and CI/CD pipeline creation.
    - **Key Features**:
      - 🛠️ Step-by-step Jenkins setup guide
