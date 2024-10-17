@@ -95,5 +95,26 @@ pipeline {
    - After entering the credentials and token, click **Save** to finalize the integration.
 
 
+## 💻 Step 3: Run the Pipeline
+
+1. **Create Pipeline Job**
+   - Go back to your pipeline project in Jenkins, and add the Git repository link (`https://github.com/suraj0-11/jenkin-example.git`).
+
+   ![Add Git Repository](./images/git-repository.png) <!-- Placeholder for Git repository image -->
+
+2. **Choose the Jenkinsfile**
+   - In the pipeline configuration, specify the appropriate `Jenkinsfilepass` for successful builds and `Jenkinsfilefail` for failures.
+
+3. **Run the Pipeline**
+   - Save and trigger the pipeline job. Jenkins will execute the pipeline and send notifications to Slack based on the outcome (success or failure).
+
+   ![Pipeline Run](./images/pipeline-run.png) <!-- Placeholder for Pipeline run image -->
+
+4. **Check Slack Notifications**
+   - Once the pipeline finishes, check the Slack channel `#all-slack` for the success or failure notification.
+
+   ![Slack Notification](./images/slack-notification.png) <!-- Placeholder for Slack notification image -->
+
+
 
 
