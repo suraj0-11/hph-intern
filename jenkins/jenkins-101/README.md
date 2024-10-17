@@ -88,6 +88,8 @@ pipeline {
    - Copy the token and add it as a secret in Jenkins under **Credentials**.
 
    ![Slack Integration](./images/slack-integration.png) <!-- Placeholder for Slack integration image -->
+   ![Slack Integration](./images/slack-integration1.png) <!-- Placeholder for Slack integration image -->
+   ![Slack Integration](./images/slack-integration2.png) <!-- Placeholder for Slack integration image -->
 
 4. **Save the Configuration**
    - After entering the credentials and token, click **Save** to finalize the integration.
