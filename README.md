@@ -1,4 +1,4 @@
-# 🚀 Project Repository as a Intern of Emeelan.com
+# 🚀 Project Repository as a Intern of Emeelan Solutions Pvt Ltd.
 
 Welcome to the **Project Repository**, featuring multiple projects that explore various tools and frameworks. Below is a breakdown of each directory with a short description and highlights.
 
