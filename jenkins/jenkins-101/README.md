@@ -74,7 +74,7 @@ pipeline {
 ## 🛠️ Step 2: Slack Notification Integration
 
 1. **Install Slack Notification Plugin**
-   - Navigate to **Manage Jenkins** > **Manage Plugins** and search for the Slack Notification plugin. Install it.
+   - Navigate to **Manage Jenkins** > **Plugins** > **Available plugins** and search for the Slack Notification plugin. Install it.
 
    ![Slack Plugin](./images/slack-plugin.png) <!-- Placeholder for plugin installation image -->
 
