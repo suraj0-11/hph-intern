@@ -3,13 +3,13 @@ import psycopg2
 from sshtunnel import SSHTunnelForwarder
 
 # SSH and Database configuration
-SSH_HOST = '202.38.182.170'
-SSH_USER = 'aman'
-SSH_PASSWORD = 'Welcome@123'
+SSH_HOST = #add your host in string
+SSH_USER = #add user in string
+SSH_PASSWORD = #password
 POSTGRES_HOST = 'localhost'
 POSTGRES_PORT = 5544
-POSTGRES_USER = 'postgres'
-POSTGRES_PASSWORD = 'postgres'
+POSTGRES_USER = #user of db
+POSTGRES_PASSWORD = #password of db
 REDIS_HOST = 'localhost'
 REDIS_PORT = 6379
 REDIS_PASSWORD = None
